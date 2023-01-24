@@ -1,3 +1,3 @@
 # gitBoards
 Welcom eto Azure gitBoards
-change from remote repo
+change from remote repos
